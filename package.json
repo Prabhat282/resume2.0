@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio website",
+  "main": "Index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss CSS/style.css -w"
+  },
+  "author": "Prabhat Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
